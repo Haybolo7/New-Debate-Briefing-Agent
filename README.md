@@ -8,6 +8,7 @@ The AI News Debate & Summary Agent Suite is a highly optimized, modular NLP work
 
 ## 🛠️ Key Workspaces
 1.🎙️ **News Debate Agent** : Evaluates a user's stated opinion on a given topic, retrieves factual, real-time contextual context from the semantic data store, generates a concise paragraph containing a logical counter-argument, and provides an objective Argument Logic Score.
+
 2. 📰 **Snippet Generalizer**: Acts as an executive editor by ingesting complex, jargon-heavy technical, financial, or ecological statements and translating them into clear, simple, plain-English bullet points.
 
 ## ⚡ Optimization & Guardrail Engineering
