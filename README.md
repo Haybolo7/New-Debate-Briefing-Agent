@@ -9,6 +9,8 @@ The AI News Debate & Summary Agent Suite is a highly optimized, modular NLP work
 3.**Retrieval-Augmented Generation (RAG)**: Utilizes a local FAISS Vector Database combined with sentence-transformers/all-MiniLM-L6-v2 embeddings to inject verified background facts into system prompts dynamically.
 
 ## 🛠️ Key Workspaces
+The project can be accessed using the given link: https://huggingface.co/spaces/VectorV17/Tech.
+
 1.**🎙️News Debate Agent** : Evaluates a user's stated opinion on a given topic, retrieves factual, real-time contextual context from the semantic data store, generates a concise paragraph containing a logical counter-argument, and provides an objective Argument Logic Score.
 
 2.**📰Snippet Generalizer**: Acts as an executive editor by ingesting complex, jargon-heavy technical, financial, or ecological statements and translating them into clear, simple, plain-English bullet points.
